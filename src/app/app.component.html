@@ -1,0 +1,15 @@
+<p>Observable:</p>
+<hr>
+<p>Alumnos de {{filterObservable}}:</p>
+<ul>
+  <li *ngFor="let student of observable$ | async"> {{student?.name }}</li>
+</ul>
+
+<br><br>
+
+<p>Promesa:</p>
+<hr>
+<p>Alumnos de {{filterPromesa}}:</p>
+<ul>
+  <li *ngFor="let student of promesa$ | async"> {{student?.name }}</li>
+</ul>

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Juan",
+        "lastName": "Pérez",
+        "course": "3A"
+    },
+    {
+        "name": "María",
+        "lastName": "González",
+        "course": "2B"
+    },
+    {
+        "name": "Pedro",
+        "lastName": "Ramírez",
+        "course": "1C"
+    },
+    {
+        "name": "Ana",
+        "lastName": "López",
+        "course": "3A"
+    }
+]
